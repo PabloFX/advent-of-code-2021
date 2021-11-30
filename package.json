@@ -1,0 +1,12 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "All puzzles for 2021 edition",
+  "main": "index.js",
+  "repository": "git@github.com:PabloFX/advent-of-code-2021.git",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "solve": "node index.js"
+  }
+}
